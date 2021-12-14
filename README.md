@@ -1,4 +1,6 @@
 # Git - Practices, How-Tos, & Strategies
+> written around October '21
+>
 > NOTE: git practices, habits and strategies will always depend on the team's preferences, project etc. etc.
 
 # Common Branches
