@@ -141,6 +141,7 @@ In beta-release branch: `git tag vX.Y.Z-beta OR using  git tag vX.Y.Z-beta.a.b.c
     - jira tickets are for project management only but for dev notes, put everything here or use something like Notion
     - templates like in MR/PRs are optional
     - check open source projects / any library for samples
+- once there are at least 2 or x number of approval and change requests are done and tested, owner of the MR/PR / maintainer of repo should merge it
 
 # Working on a X number of features with multiple devs on a Y week/s sprint
 
