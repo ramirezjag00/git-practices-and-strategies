@@ -201,6 +201,7 @@ For best practices working on any huge feature on any sprint, slice a feature in
 - Semantic Release - [Introduction](https://semantic-release.gitbook.io/semantic-release/)
 - Semantic Release - [Publishing on distribution channels](https://github.com/semantic-release/semantic-release/blob/1405b94296059c0c6878fb8b626e2c5da9317632/docs/recipes/distribution-channels.md)
 - [Semantic Versioning 2.0](https://semver.org/)
+- Changelog (for Changelog.md) format based on [keepchangelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Flow
 
