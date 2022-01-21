@@ -134,6 +134,8 @@ In beta-release branch: `git tag vX.Y.Z-beta OR using  git tag vX.Y.Z-beta.a.b.c
 </aside>
 
 - as much as possible, there are 2 or more reviewers required. It's possible that 1 reviewer might miss a few things that the other one might notice. 2 reviewers give different insights/approach. *(ask, learn, suggest on MR/PRs). If in case, 1 of main 2 reviewers is on leave, any dev can review it*
+![pull-request-process.png](assets/pull-request-process.png)
+
 - use Issues Tab on gitlab/github to keep track of the ff:
     - temporary code changes
     - current issues (investigations done/related article links and such)
