@@ -153,6 +153,8 @@ However, on a team with fewer resources and has a shorter sprint like 1-2weeks, 
 
 For best practices working on any huge feature on any sprint, slice a feature into working parts. Each part has their own `subFeature/*` branch that'll be merged back to `feature/*` branch which then will go to `develop`. By doing so, team avoids having the reviewers read thousands and thousands of code lines but read/absorb each section/part of the feature, probably would have a better idea of the whole, and keeping the codebase on a healthy state.
 
+![subbranching.png](assets/subbranching.png)
+
 <aside>
 💡 Number of subFeature/* branches IS EQUAL TO Number of slices/parts of a feature IS EQUAL TO Number of MR/PRs of huge feature
 </aside>
